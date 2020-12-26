@@ -1,0 +1,9 @@
+C:\Users\Jaden\source\repos\LittleStar\bin\Debug\LittleStar.exe.config
+C:\Users\Jaden\source\repos\LittleStar\bin\Debug\LittleStar.exe
+C:\Users\Jaden\source\repos\LittleStar\bin\Debug\LittleStar.pdb
+C:\Users\Jaden\source\repos\LittleStar\obj\Debug\LittleStar.csprojAssemblyReference.cache
+C:\Users\Jaden\source\repos\LittleStar\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jaden\source\repos\LittleStar\obj\Debug\LittleStar.csproj.ResolveComReference.cache
+C:\Users\Jaden\source\repos\LittleStar\obj\Debug\LittleStar.csproj.CoreCompileInputs.cache
+C:\Users\Jaden\source\repos\LittleStar\obj\Debug\LittleStar.exe
+C:\Users\Jaden\source\repos\LittleStar\obj\Debug\LittleStar.pdb
